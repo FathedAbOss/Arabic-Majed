@@ -1,0 +1,233 @@
+[
+  {
+    "name": "JustWatch",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.justwatch.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "JustWatchProvider",
+    "description": "Placeholder for JustWatch provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://www.justwatch.com/eg"
+  },
+  {
+    "name": "ElCinema",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=elcinema.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "ElCinemaProvider",
+    "description": "Placeholder for ElCinema provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://elcinema.com/"
+  },
+  {
+    "name": "MyCima",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.direct&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "MyCimaProvider",
+    "description": "Placeholder for MyCima provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://mycima.direct/"
+  },
+  {
+    "name": "WeCima",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.click&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "WeCimaProvider",
+    "description": "Placeholder for WeCima provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://wecima.click/"
+  },
+  {
+    "name": "EgyDead",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=egydead.media&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "EgyDeadProvider",
+    "description": "Placeholder for EgyDead provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://egydead.media/"
+  },
+  {
+    "name": "AKsv",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=ak.sv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "AKsvProvider",
+    "description": "Placeholder for AKsv provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://ak.sv/"
+  },
+  {
+    "name": "Larooza",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=larooza.hair&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "LaroozaProvider",
+    "description": "Placeholder for Larooza provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://larooza.hair/gaza.20"
+  },
+  {
+    "name": "Brstej",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=pro.brstej.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "BrstejProvider",
+    "description": "Placeholder for Brstej provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://pro.brstej.com/main11"
+  },
+  {
+    "name": "FarfeshPlus",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=farfeshplus.bryzaads.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "FarfeshPlusProvider",
+    "description": "Placeholder for FarfeshPlus provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://www.farfeshplus.bryzaads.com/Media3.asp"
+  },
+  {
+    "name": "CimaLight",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=w.cimalight.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "CimaLightProvider",
+    "description": "Placeholder for CimaLight provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://w.cimalight.co/main14"
+  },
+  {
+    "name": "YallaCima",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yallacima.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/FathedAbOss/Arabic-Majed",
+    "version": 1,
+    "internalName": "YallaCimaProvider",
+    "description": "Placeholder for YallaCima provider",
+    "tvTypes": [
+      "Others"
+    ],
+    "authors": [
+      "Majed"
+    ],
+    "status": 0,
+    "jarFileSize": 0,
+    "fileSize": 0,
+    "jarUrl": "",
+    "url": "",
+    "siteUrl": "https://yallacima.net/"
+  }
+]
